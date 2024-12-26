@@ -1,3 +1,3 @@
 layout: page
 title: "Music"
-permalink: /Carnatic/carnatic.html
+permalink: Carnatic/carnatic.html
